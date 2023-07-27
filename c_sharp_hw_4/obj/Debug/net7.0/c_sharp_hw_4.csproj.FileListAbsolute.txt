@@ -1,0 +1,15 @@
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\bin\Debug\net7.0\c_sharp_hw_4.exe
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\bin\Debug\net7.0\c_sharp_hw_4.deps.json
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\bin\Debug\net7.0\c_sharp_hw_4.runtimeconfig.json
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\bin\Debug\net7.0\c_sharp_hw_4.dll
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\bin\Debug\net7.0\c_sharp_hw_4.pdb
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.csproj.AssemblyReference.cache
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.AssemblyInfoInputs.cache
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.AssemblyInfo.cs
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.csproj.CoreCompileInputs.cache
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.dll
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\refint\c_sharp_hw_4.dll
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.pdb
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\c_sharp_hw_4.genruntimeconfig.cache
+C:\Users\razoo\OneDrive\Документы\курсы\Новая папка\c_sharp_hw_4\obj\Debug\net7.0\ref\c_sharp_hw_4.dll
