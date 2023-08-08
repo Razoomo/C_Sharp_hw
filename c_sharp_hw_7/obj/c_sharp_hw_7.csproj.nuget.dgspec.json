@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_2\\c_sharp_hw_2.csproj": {}
+    "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_7\\c_sharp_hw_7.csproj": {}
   },
   "projects": {
-    "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_2\\c_sharp_hw_2.csproj": {
+    "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_7\\c_sharp_hw_7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_2\\c_sharp_hw_2.csproj",
-        "projectName": "c_sharp_hw_2",
-        "projectPath": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_2\\c_sharp_hw_2.csproj",
+        "projectUniqueName": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_7\\c_sharp_hw_7.csproj",
+        "projectName": "c_sharp_hw_7",
+        "projectPath": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_7\\c_sharp_hw_7.csproj",
         "packagesPath": "C:\\Users\\razoo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_2\\obj\\",
+        "outputPath": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\razoo\\AppData\\Roaming\\NuGet\\NuGet.Config"

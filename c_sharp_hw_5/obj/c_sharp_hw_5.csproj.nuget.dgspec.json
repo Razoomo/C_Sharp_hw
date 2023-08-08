@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_5\\c_sharp_hw_5.csproj": {}
+    "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_5\\c_sharp_hw_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_5\\c_sharp_hw_5.csproj": {
+    "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_5\\c_sharp_hw_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_5\\c_sharp_hw_5.csproj",
+        "projectUniqueName": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_5\\c_sharp_hw_5.csproj",
         "projectName": "c_sharp_hw_5",
-        "projectPath": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_5\\c_sharp_hw_5.csproj",
+        "projectPath": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_5\\c_sharp_hw_5.csproj",
         "packagesPath": "C:\\Users\\razoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_5\\obj\\",
+        "outputPath": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\razoo\\AppData\\Roaming\\NuGet\\NuGet.Config"

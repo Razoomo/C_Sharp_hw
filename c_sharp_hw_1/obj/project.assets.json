@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_1\\c_sharp_hw_1.csproj",
+      "projectUniqueName": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_1\\c_sharp_hw_1.csproj",
       "projectName": "c_sharp_hw_1",
-      "projectPath": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_1\\c_sharp_hw_1.csproj",
+      "projectPath": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_1\\c_sharp_hw_1.csproj",
       "packagesPath": "C:\\Users\\razoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razoo\\OneDrive\\Документы\\курсы\\Новая папка\\c_sharp_hw_1\\obj\\",
+      "outputPath": "c:\\Users\\razoo\\OneDrive\\Документы\\курсы\\c_sharp_hw\\c_sharp_hw_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\razoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
