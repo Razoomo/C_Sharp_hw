@@ -1,0 +1,5 @@
+C:\Users\razoo\OneDrive\Документы\курсы\c_sharp_hw\c_sharp_hw_8\obj\Debug\net7.0\c_sharp_hw_8.csproj.AssemblyReference.cache
+C:\Users\razoo\OneDrive\Документы\курсы\c_sharp_hw\c_sharp_hw_8\obj\Debug\net7.0\c_sharp_hw_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razoo\OneDrive\Документы\курсы\c_sharp_hw\c_sharp_hw_8\obj\Debug\net7.0\c_sharp_hw_8.AssemblyInfoInputs.cache
+C:\Users\razoo\OneDrive\Документы\курсы\c_sharp_hw\c_sharp_hw_8\obj\Debug\net7.0\c_sharp_hw_8.AssemblyInfo.cs
+C:\Users\razoo\OneDrive\Документы\курсы\c_sharp_hw\c_sharp_hw_8\obj\Debug\net7.0\c_sharp_hw_8.csproj.CoreCompileInputs.cache
